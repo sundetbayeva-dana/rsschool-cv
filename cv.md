@@ -1,9 +1,7 @@
-[rs-school](https://rs.school/ "URL rs-school")
-****
 # Dana Sundetbayeva
-****
+
 ## Junior Front-end Developer
-****
+
 Contacts:
 * _Discord_: __Dana#2950__
 * _Telegram_: __@dana_10969__
