@@ -2,7 +2,7 @@
 ****
 # Dana Sundetbayeva
 ****
-Junior Front-end Developer
+## Junior Front-end Developer
 ****
 Contacts:
 * _Discord_: __Dana#2950__
