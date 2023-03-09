@@ -46,4 +46,11 @@
     
     }
     ```
+### My Projects:
+    * Project 1- HTML, CSS, JS, API.Rest - [Small project where you can find Stars Wars characters](https://github.com/sundetbayeva-dana/sw)
+    * Project 2- HTML, CSS, JS, API.Rest - [Project where you can save your cards and press like button to others](https://github.com/sundetbayeva-dana/mesto)
+    * Project 3 - HTML, CSS, JS, React, API.Rest - [Project where you can save your cards and press like button to others with authorization using React](https://github.com/sundetbayeva-dana/mesto-react)
+
+### Courses:
+    Web-developer by [Yandex.Praktikum](https://practicum.yandex.ru/)
 
