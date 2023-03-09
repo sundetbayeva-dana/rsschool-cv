@@ -54,3 +54,6 @@
 ### Courses:
     Web-developer by [Yandex.Praktikum](https://practicum.yandex.ru/)
 
+### Languages:
+    * English - Intermediate
+    * Russian - Native
